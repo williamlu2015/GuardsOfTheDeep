@@ -87,6 +87,7 @@ class DataExtractor:
             "api-key": self.api_key,
             "page": index,
             "page-size": 200,
+            "order-by": "oldest",
             "show-fields": ",".join(fields),
             "to-date": date_range.get_last_day()
         }

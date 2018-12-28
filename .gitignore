@@ -1,6 +1,7 @@
 /accounts/*
 /api/*
 /data/*
+/dataset/*
 
 # ================
 # Python.gitignore
