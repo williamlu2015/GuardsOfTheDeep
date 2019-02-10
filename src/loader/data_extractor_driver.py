@@ -1,6 +1,6 @@
 import asyncio
 
-from src.data_extractor import DataExtractor
+from src.loader.data_extractor import DataExtractor
 
 
 async def main():

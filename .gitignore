@@ -2,6 +2,7 @@
 /api/*
 /data/*
 /dataset/*
+/models/*
 
 # ================
 # Python.gitignore
